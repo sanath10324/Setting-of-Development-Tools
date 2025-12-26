@@ -1,0 +1,7 @@
+start
+num1=2, num2=3, +
+read values num1 and num2 
+add num1 and num2 
+sum=num1 + num2 
+display sum 
+stop  
